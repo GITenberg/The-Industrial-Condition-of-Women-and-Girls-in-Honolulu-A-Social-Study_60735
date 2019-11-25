@@ -1,11 +1,16 @@
 _repo: The-Industrial-Condition-of-Women-and-Girls-in-Honolulu-A-Social-Study_60735
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60735-h/images/cover.jpg
 creator:
   author:
     agent_name: Blascoer, Frances
     gutenberg_agent_id: '51112'
     url: http://www.gutenberg.org/2009/agents/51112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60735#The-Industrial-Condition-of-Women-and-Girls-in-Honolulu-A-Social-Study
 gutenberg_issued: '2019-11-19'
 gutenberg_type: Text
 identifiers:
